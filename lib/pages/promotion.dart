@@ -451,7 +451,7 @@ class _PromotionPageState extends State<PromotionPage> {
                                                             : Icons.favorite,
                                                         color: isFeatureActive
                                                             ? Colors.red
-                                                            : Colors.grey,
+                                                            : Color(0xffF0F0F0),
                                                         size: 20,
                                                       ),
                                                     ),
@@ -480,7 +480,7 @@ class _PromotionPageState extends State<PromotionPage> {
                                                             : Icons.favorite,
                                                         color: isFeatureActive
                                                             ? Colors.red
-                                                            : Colors.grey,
+                                                            : Color(0xffF0F0F0),
                                                         size: 20,
                                                       ),
                                                     ),
@@ -509,7 +509,7 @@ class _PromotionPageState extends State<PromotionPage> {
                                                             : Icons.favorite,
                                                         color: isFeatureActive
                                                             ? Colors.red
-                                                            : Colors.grey,
+                                                            : Color(0xffF0F0F0),
                                                         size: 20,
                                                       ),
                                                     ),
@@ -538,7 +538,7 @@ class _PromotionPageState extends State<PromotionPage> {
                                                             : Icons.favorite,
                                                         color: isFeatureActive
                                                             ? Colors.red
-                                                            : Colors.grey,
+                                                            : Color(0xffF0F0F0),
                                                         size: 20,
                                                       ),
                                                     ),
