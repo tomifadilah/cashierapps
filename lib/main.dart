@@ -1,4 +1,5 @@
 import 'package:cashier_apps/pages/home.dart';
+import 'package:cashier_apps/pages/login.dart';
 import 'package:cashier_apps/pages/profile.dart';
 import 'package:cashier_apps/pages/promotion.dart';
 import 'package:cashier_apps/pages/transaction.dart';
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      home: PromotionPage(),
+      home: LoginPage(),
     );
   }
 }
